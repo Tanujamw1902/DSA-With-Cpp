@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-    cout<<"Tanuja Waware";
-    cout<<PI;
+    cout<<"Tanuja Waware\n";
+    cout<< PI;
     return 0;
 }
